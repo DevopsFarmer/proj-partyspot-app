@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">PartySpot</string>
+    <string name="title_activity_main">PartySpot</string>
+    <string name="package_name">com.partyspot.app</string>
+    <string name="custom_url_scheme">com.partyspot.app</string>
+</resources>
