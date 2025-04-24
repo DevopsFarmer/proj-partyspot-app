@@ -1,9 +1,0 @@
-{
-    "name": "Android Build Environment",
-    "image": "mcr.microsoft.com/devcontainers/java:11",
-    "features": {
-      "ghcr.io/devcontainers-contrib/features/android-sdk:1": {}
-    },
-    "postCreateCommand": "./scripts/setup-android.sh"
-  }
-  
